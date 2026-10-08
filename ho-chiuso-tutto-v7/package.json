@@ -1,0 +1,9 @@
+{
+  "name": "ho-chiuso-tutto",
+  "version": "7.0.0",
+  "private": true,
+  "description": "Ho Chiuso Tutto? - Checklist PWA con notifiche push",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
