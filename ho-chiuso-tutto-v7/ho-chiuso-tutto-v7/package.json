@@ -1,0 +1,7 @@
+{
+  "name": "ho-chiuso-tutto",
+  "version": "7.1.0",
+  "private": true,
+  "description": "Ho Chiuso Tutto? - Checklist PWA con notifiche push (nessuna dipendenza: la funzione usa solo fetch e crypto di Node)",
+  "dependencies": {}
+}
