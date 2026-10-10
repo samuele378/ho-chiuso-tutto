@@ -1,6 +1,9 @@
 [build]
-  publish = "public"
-  functions = "netlify/functions"
+  publish = "NUOVA-v7-1/public"
+  functions = "NUOVA-v7-1/netlify/functions"
 
 [functions]
   node_bundler = "esbuild"
+
+[functions."check-events"]
+  schedule = "* * * * *"
